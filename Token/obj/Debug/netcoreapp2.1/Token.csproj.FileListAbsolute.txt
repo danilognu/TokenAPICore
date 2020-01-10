@@ -1,0 +1,14 @@
+C:\DEVELOPMENT\TokenEstudo\Token\Token\bin\Debug\netcoreapp2.1\Token.deps.json
+C:\DEVELOPMENT\TokenEstudo\Token\Token\bin\Debug\netcoreapp2.1\Token.runtimeconfig.json
+C:\DEVELOPMENT\TokenEstudo\Token\Token\bin\Debug\netcoreapp2.1\Token.runtimeconfig.dev.json
+C:\DEVELOPMENT\TokenEstudo\Token\Token\bin\Debug\netcoreapp2.1\Token.dll
+C:\DEVELOPMENT\TokenEstudo\Token\Token\bin\Debug\netcoreapp2.1\Token.pdb
+C:\DEVELOPMENT\TokenEstudo\Token\Token\obj\Debug\netcoreapp2.1\Token.csprojAssemblyReference.cache
+C:\DEVELOPMENT\TokenEstudo\Token\Token\obj\Debug\netcoreapp2.1\Token.RazorAssemblyInfo.cache
+C:\DEVELOPMENT\TokenEstudo\Token\Token\obj\Debug\netcoreapp2.1\Token.RazorAssemblyInfo.cs
+C:\DEVELOPMENT\TokenEstudo\Token\Token\obj\Debug\netcoreapp2.1\Token.AssemblyInfoInputs.cache
+C:\DEVELOPMENT\TokenEstudo\Token\Token\obj\Debug\netcoreapp2.1\Token.AssemblyInfo.cs
+C:\DEVELOPMENT\TokenEstudo\Token\Token\obj\Debug\netcoreapp2.1\Token.RazorTargetAssemblyInfo.cache
+C:\DEVELOPMENT\TokenEstudo\Token\Token\obj\Debug\netcoreapp2.1\Token.dll
+C:\DEVELOPMENT\TokenEstudo\Token\Token\obj\Debug\netcoreapp2.1\Token.pdb
+C:\DEVELOPMENT\TokenEstudo\Token\Token\obj\Debug\netcoreapp2.1\Token.csproj.CoreCompileInputs.cache
